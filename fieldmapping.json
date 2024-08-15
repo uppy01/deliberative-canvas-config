@@ -1,1 +1,10 @@
-{"comment-id":"ID","comment-body":"Label"}
+[
+  {
+    "sourceName": "Pol.is",
+    "fields": {"comment-id":"ID","comment-body":"Label"}
+  },
+  {
+    "sourceName": "Remesh",
+    "fields": {"Participant Id":"ID","comment-body":"Label"}
+  }
+]
