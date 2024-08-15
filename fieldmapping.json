@@ -5,6 +5,6 @@
   },
   {
     "sourceName": "Remesh",
-    "fields": {"Participant Id":"ID","comment-body":"Label"}
+    "fields": {"Participant Id":"ID"}
   }
 ]
