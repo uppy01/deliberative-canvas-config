@@ -7,6 +7,6 @@
   {
     "sourceName": "Remesh",
     "id": "/delibcanvas/fieldmapping/remesh__core",
-    "fields": {"Participant Id":"ID"}
+    "fields": {"Participant Id":"ID","TEST SOURCE FIELD":"TEST EXPORT FIELD"}
   }
 ]
