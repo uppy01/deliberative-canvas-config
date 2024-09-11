@@ -3,12 +3,12 @@
     "sourceName": "Remesh",
     "id": "remesh__core",
     "sourceFormat": "csv",
-    "fields": {"Participant Id":"ID","TEST SOURCE FIELD":"TEST EXPORT FIELD","TEST SOURCE FIELD 2":"TEST EXPORT FIELD 2"}
+    "fields": {"Participant Id":"id","TEST SOURCE FIELD":"TEST EXPORT FIELD","TEST SOURCE FIELD 2":"TEST EXPORT FIELD 2"}
   },
   {
     "sourceName": "Pol.is",
     "id": "polis__core",
     "sourceFormat": "csv",
-    "fields": {"comment-id":"ID","comment-body":"Label"}
+    "fields": {"comment-id":"id","comment-body":"label"}
   }
 ]
