@@ -2,6 +2,6 @@
   {
     "sourceName": "Pol.is",
     "id": "polis__core",
-    "fields": {"comment-id":"id","comment-body":"label","timestamp":"date"}
+    "fields": {"comment-id":"id","comment-body":"label","timestamp":"date","author-id":"","agrees":"","disagrees":"","is-seed":"","group-informed-consensus":""}
   }
 ]
